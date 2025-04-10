@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../pkg/assets/Brand.svg" alt="NightORM Logo" width="500">
+</div>
+
 # Documentação do NightORM
 
 Bem-vindo à documentação do NightORM, um ORM (Object-Relational Mapping) simples e flexível para Go.

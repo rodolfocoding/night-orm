@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="pkg/assets/Brand.svg" alt="NightORM Logo" width="500">
+</div>
+
 # NightORM
 
 NightORM é um ORM (Object-Relational Mapping) simples e flexível para Go, projetado para facilitar a interação com bancos de dados relacionais. Atualmente, o NightORM suporta PostgreSQL, com planos para expandir para outros bancos de dados no futuro.
