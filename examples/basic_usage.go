@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	night_orm "night-orm"
+	night_orm "github.com/rodolfocoding/night-orm"
 )
 
 // User é um exemplo de modelo

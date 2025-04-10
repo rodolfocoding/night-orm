@@ -2,8 +2,8 @@ package night_orm
 
 import (
 	"context"
-	"night-orm/pkg/core"
-	"night-orm/pkg/postgres"
+	"github.com/rodolfocoding/night-orm/pkg/core"
+	"github.com/rodolfocoding/night-orm/pkg/postgres"
 )
 
 // ORM é a interface principal que define as operações básicas do ORM

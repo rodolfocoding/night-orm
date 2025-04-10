@@ -1,4 +1,4 @@
-module night-orm
+module github.com/rodolfocoding/night-orm
 
 go 1.24.2
 

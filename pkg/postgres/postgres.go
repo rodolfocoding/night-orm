@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"strings"
 
-	"night-orm/pkg/core"
-	"night-orm/pkg/utils"
+	"github.com/rodolfocoding/night-orm/pkg/core"
+	"github.com/rodolfocoding/night-orm/pkg/utils"
 
 	"github.com/lib/pq"
 )
