@@ -53,7 +53,7 @@ import (
     "context"
     "log"
 
-    "github.com/seu-usuario/night-orm"
+    "github.com/rodolfocoding/night-orm"
 )
 
 func main() {
