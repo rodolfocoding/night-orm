@@ -2,6 +2,8 @@
 
 Este documento descreve como usar as tags de estrutura no NightORM para personalizar o mapeamento entre estruturas Go e tabelas de banco de dados.
 
+[English version](struct_tags.en.md)
+
 ## Introdução
 
 O NightORM usa tags de estrutura para determinar como os campos de uma estrutura Go são mapeados para colunas em uma tabela de banco de dados. As tags de estrutura são definidas usando a sintaxe de tags do Go:

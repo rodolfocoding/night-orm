@@ -2,6 +2,8 @@
 
 NightORM é um ORM (Object-Relational Mapping) simples e flexível para Go, projetado para facilitar a interação com bancos de dados relacionais. Atualmente, o NightORM suporta PostgreSQL, com planos para expandir para outros bancos de dados no futuro.
 
+[English version](README.en.md)
+
 ## Características
 
 - Interface simples e intuitiva

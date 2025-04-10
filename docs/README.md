@@ -2,6 +2,8 @@
 
 Bem-vindo à documentação do NightORM, um ORM (Object-Relational Mapping) simples e flexível para Go.
 
+[English version](README.en.md)
+
 ## Índice
 
 - [Introdução](#introdução)

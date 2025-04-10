@@ -2,6 +2,8 @@
 
 Este documento descreve como usar transações no NightORM para garantir a integridade dos dados em operações que envolvem múltiplas alterações no banco de dados.
 
+[English version](transactions.en.md)
+
 ## Introdução
 
 Transações são usadas para agrupar várias operações de banco de dados em uma única unidade lógica de trabalho. Isso garante que todas as operações sejam concluídas com sucesso ou que nenhuma delas seja aplicada, mantendo a integridade dos dados.

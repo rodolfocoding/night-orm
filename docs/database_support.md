@@ -2,6 +2,8 @@
 
 Este documento descreve o suporte atual a bancos de dados no NightORM e como adicionar suporte para novos bancos de dados.
 
+[English version](database_support.en.md)
+
 ## Bancos de Dados Suportados
 
 Atualmente, o NightORM suporta os seguintes bancos de dados:
