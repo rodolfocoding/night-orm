@@ -14,7 +14,7 @@ NightORM é um ORM (Object-Relational Mapping) simples e flexível para Go, proj
 ## Instalação
 
 ```bash
-go get github.com/seu-usuario/night-orm
+go get github.com/rodolfocoding/night-orm
 ```
 
 ## Uso Básico
